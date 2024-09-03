@@ -3,7 +3,6 @@ This project was assigned to us as part of our college coursework. In the [assig
 
 The primary objective of this project was to analyze six different datasets related to crashes in the city of Chicago using data mining techniques. The tasks involved handling missing values, addressing outlier issues, detecting and resolving contradictions, and extracting specific information from the datasets. You can access the complete assignment details to learn more about the project requirements.
 
-# Datasets
 You can find the datasets [here](https://drive.google.com/file/d/1s0Q7Jk_C3q-aOfp7tJGuYdKEFByMcDmb/view?usp=drive_link).
 
 # Contributors
