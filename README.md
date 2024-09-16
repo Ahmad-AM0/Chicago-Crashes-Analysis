@@ -5,7 +5,7 @@ The primary objective of this project was to analyze six different datasets rela
 
 You can find the datasets [here](https://drive.google.com/file/d/1s0Q7Jk_C3q-aOfp7tJGuYdKEFByMcDmb/view?usp=drive_link).
 
-# Contributors
+## Contributors
 - [Ahmad-AM0](https://github.com/Ahmad-AM0)
 - [kenan-azd-dev](https://github.com/kenan-azd-dev)
 - Hadi Saker
